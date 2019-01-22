@@ -21,7 +21,7 @@
  
 <p>run npm start</p>
 </br>
-<strong>tech involve</strong></br>
+<strong>npm package</strong></br>
 create-react-app cli</br>
 react</br>
 redux</br>
